@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">ExchangRmb2Euro</string>
+    <string name="app_name">欧元汇率计算器2.0</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">欧元汇率计算器2.0</string>
+    <string name="title_activity_activity3">欧元汇率计算器2.0</string>
 </resources>
