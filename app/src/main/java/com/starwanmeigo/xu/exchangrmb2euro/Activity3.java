@@ -18,7 +18,7 @@ import org.jsoup.nodes.Document;
 import java.io.IOException;
 
 
-public class Activity3 extends MainActivity {
+public class Activity3 extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
